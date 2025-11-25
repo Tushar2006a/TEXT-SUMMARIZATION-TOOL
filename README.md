@@ -1,17 +1,17 @@
 # TEXT-SUMMARIZATION-TOOL
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-NAME: TUSHAR SUHAGPURE 
+*NAME*: TUSHAR SUHAGPURE 
 
-INTER ID: CT06DR1876
+*INTER ID*: CT06DR1876
 
-DOMAIN: ARTIFICIAL INTELLIGENCE
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
 
-DURATION: 6 WEEKS
+*DURATION*: 6 WEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
-(Internship Task 1 description)
+##(Internship Task 1 description)
 
 1. Introduction
 
@@ -174,3 +174,6 @@ How to run Python scripts using Terminal
 How AI models load, tokenize, and generate outputs
 
 This task strengthened my understanding of core NLP concepts and real-world AI development on Mac systems.
+
+#OUTPUT
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/df3822ed-5857-4bee-83e6-b5f3fc9c0705" />
